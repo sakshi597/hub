@@ -24,3 +24,10 @@ I'm pursuing BTech in Computer Science, India. curently I'm in third year and I'
 <p align="center">
 ![Profile views](https://gpvc.arturio.dev/sakshi597)
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sakshi-lambe-773045203/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-sakshi597-blue"></a>
+<a href="https://www.instagram.com/sakshilambe7.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-sakshilambe7.ul-red"></a>
+</p>
