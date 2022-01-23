@@ -6,7 +6,14 @@ I'm pursuing BTech in Computer Science, India. curently I'm in third year and I'
 - 🤔 &nbsp; I’m currently working on #100daysofcoding challenge.;
 - 💼 &nbsp; I'm currently learning data structures and algorithm in cpp programming language.
 - 🌱 &nbsp; Ask me about anything, happy to help!
-- 📫 &nbsp; Reach me asap:https://www.linkedin.com/in/sakshi-lambe-773045203/
+- 📫 &nbsp; Reach me asap:<a href="https://www.linkedin.com/in/sakshi-lambe-773045203/"  target="_blank" >@sakshi</a>;
+
+### 🛠 &nbsp;Languages and Tools
+
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
 
 
 
